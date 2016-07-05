@@ -1,1 +1,2 @@
-# newGitTest
+GIT FLOW
+Test Para1
